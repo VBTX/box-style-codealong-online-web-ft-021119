@@ -89,6 +89,10 @@ img, video, audio, iframe, table, form {
 [class*="col-"] {
   margin-left: 2%;
 }
+.border-right{
+  border-right: 1px dotted #ccc;
+  padding-right: 30px;
+}
 
 .first {
   margin-left: 0%;
